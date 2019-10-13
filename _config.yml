@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "余啟正的网站" 
+title                    : "余啟正的网站"
 title_separator          : "-"
 subtitle                 : "“Never be contented with your study; never be impatient with your teaching.” – Confucius" # site tagline that appears below site title in masthead
 name                     : "Jared Yu"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Jared Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Graduate Student"
+  bio              : "Data Science Graduate Student (JHU '21)"
   location         : "Davis, California"
   email            :
   links:
