@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Learning"
+    url: /learning/
   - title: "Blog"
     url: /blog/
   - title: "Projects"
