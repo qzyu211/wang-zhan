@@ -4,4 +4,4 @@ layout: categories
 permalink: /learning/
 author_profile: true
 ---
-Pages below are separated into groups: statistics, data science, machine learning, and artificial intelligence.
+Categories for learning various concepts are separated into the groups: statistics, data science, machine learning, and artificial intelligence.
