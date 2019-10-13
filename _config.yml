@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Graduate Student (JHU '21)"
   location         : "Davis, California"
-  email            :
+  email            : "qzyu999@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
