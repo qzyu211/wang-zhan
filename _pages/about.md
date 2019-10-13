@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /wang-zhan/about/
 #header:
 #  image: "/images/shenzhen_guoqing.jpg"
 ---
