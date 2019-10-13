@@ -116,6 +116,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:qzyu999@gmail.com
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/jaredvyu/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.yuqizheng.com"
