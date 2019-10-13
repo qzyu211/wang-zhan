@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /wang-zhan/about/
   - title: "Projects"
-    url: /projects/
+    url: /wang-zhan/projects/
   - title: "Blog"
-    url: /blog/
+    url: /wang-zhan/blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
