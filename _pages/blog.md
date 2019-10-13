@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /wang-zhan/blog/
+permalink: /blog/
 title: "Blog"
 #header:
 #  image: "/images/shenzhen_guoqing.jpg"

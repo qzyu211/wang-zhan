@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /wang-zhan/projects/
+permalink: /projects/
 title: "Projects"
 #header:
 #  image: "/images/shenzhen_guoqing.jpg"
