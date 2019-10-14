@@ -22,7 +22,7 @@ feature_row:
     url: "https://qzyu999.github.io/wang-zhan/learning/#statistics"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ds_logo.png
+  - image_path: "/images/ds_logo.png"
     image_caption: "Demonstration of the essential lapply function."
     alt: "placeholder image 2"
     title: "Data Science"
