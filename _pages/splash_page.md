@@ -1,5 +1,5 @@
 ---
-title: "Learn to Practice Analytics Properly"
+title: "Learn the Proper Way of Modern Analytics"
 layout: splash
 permalink: /
 #date: 2016-03-23T11:48:41-04:00
