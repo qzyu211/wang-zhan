@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "/images/everest2.jpg"
+  overlay_image: "/images/everest.jpg"
   actions:
     - label: "Read On"
       url: "https://qzyu999.github.io/wang-zhan/learning/"
