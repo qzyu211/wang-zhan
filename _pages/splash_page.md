@@ -16,13 +16,13 @@ intro:
   - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today.'
 feature_row:
   - image_path: "/images/stat_logo.jpg"
-    alt: "placeholder image 1"
+    alt: "Central Limit Theorem"
     title: "Statistics"
     excerpt: "Understand with greater insight various statistical methods."
     url: "https://qzyu999.github.io/wang-zhan/learning/#statistics"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: "/images/ds_logo2.jpg"
+  - image_path: "/images/ds_logo.jpg"
     image_caption: "Demonstration of the essential lapply function."
     alt: "lapply code"
     title: "Data Science"
