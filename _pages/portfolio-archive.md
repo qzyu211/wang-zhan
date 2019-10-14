@@ -5,6 +5,6 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+header:
+  teaser: "/images/portfolio_logo2.jpg"
 ---
-
-Sample document listing for the collection `_portfolio`.
