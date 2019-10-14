@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Jared's Website"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -8,34 +8,40 @@ header:
   overlay_filter: "0.5"
   overlay_image: #/assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Learn Statistics / Data Science / Machine Learning / Artificial Intelligence"
+      url: "https://qzyu999.github.io/wang-zhan/learning/"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "With the development of convenient programming packages that allow any user to quickly implement a given algorithm, more users are confronted with a set of tools but without the knowledge to properly use them. This website is here to help those users learn what they need."
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today.'
 feature_row:
   - image_path: #assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Statistics"
+    excerpt: "Understand with greater insight various statistical methods."
+    url: "https://qzyu999.github.io/wang-zhan/learning/#statistics"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Data Science"
+    excerpt: "Learn essential skills for all aspiring data scientists."
+    url: "https://qzyu999.github.io/wang-zhan/learning/#data-science"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: #/assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Machine Learning"
+    excerpt: "Dive deeper into some of the various ML tools out there."
+    url: "https://qzyu999.github.io/wang-zhan/learning/#machine-learning"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "Portfolio"
+    excerpt: 'Take a look at several past and on-going projects.'
+    url: "https://qzyu999.github.io/wang-zhan/portfolio/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -49,9 +55,9 @@ feature_row3:
 feature_row4:
   - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    title: "About Me"
+    excerpt: 'Find out more about who I am in this section.'
+    url: "https://qzyu999.github.io/wang-zhan/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

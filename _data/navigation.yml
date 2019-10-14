@@ -4,10 +4,10 @@ main:
     url: /
   - title: "Learning"
     url: /learning/
-  - title: "Blog"
-    url: /blog/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Blog"
+    url: /blog/
   - title: "About"
     url: /about/
 #  - title: "Splash Page"
