@@ -15,10 +15,15 @@ Individual final project for the course, Multivariate Data Analysis, from the Un
 Group final project for the course, Applied Time Series, from the University of California, Davis. A dataset of fluctuating annual temperatures were analyzed using various time series methods. Three different ARIMA models were developed based upon plots, ACF, PACF, and spectral analysis.
 
 **USA Spending Data Analytics for Business Owners**
-Group final project for the course, Advanced Statistical Computing, from the University of California, Davis. The project utilized a large dataset from usaspending.gov. The project allowed business owners to predict where they may find contractual work with the federal government. Various geoplots were developed for visual analysis. Text mining was done using Natural Language Processing (NLP) techniques to categorize businesses per state. Additionally, machine learning algorithms modeled future spending for each state. 
+Group final project for the course, Advanced Statistical Computing, from the University of California, Davis. The project utilized a large dataset from usaspending.gov. The project allowed business owners to predict where they may find contractual work with the federal government. Various geoplots were developed for visual analysis. Text mining was done using Natural Language Processing (NLP) techniques to categorize businesses per state. Additionally, machine learning algorithms modeled future spending for each state.
+
 ------
 # Experience and Volunteering
-...
+**Data Analyst Intern - Fliqk**
+- Performed webscraping of Twitter accounts using an API
+
+**Writer, Statistics - init27 Labs**
+- Wrote articles to help others learn more about statistical concepts.
 
 ------
 # Education
