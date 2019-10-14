@@ -1,5 +1,5 @@
 ---
-title: "Jared's Website"
+title: "Learn "
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: #/assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Learn Statistics / Data Science / Machine Learning / Artificial Intelligence"
+    - label: "Learn More Here"
       url: "https://qzyu999.github.io/wang-zhan/learning/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "With the development of convenient programming packages that allow any user to quickly implement a given algorithm, more users are confronted with a set of tools but without the knowledge to properly use them. This website is here to help those users learn what they need."
+excerpt: "With so many convenient packages allowing for users to quickly implement any ML algorithm, there are now many users with access to tools but an inability to properly use them."
 intro:
   - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today.'
 feature_row:
@@ -47,9 +47,9 @@ feature_row2:
 feature_row3:
   - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    title: "Blog"
+    excerpt: 'Read the latest blog posts to find the most recently created lessons on the site.'
+    url: "https://qzyu999.github.io/wang-zhan/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
