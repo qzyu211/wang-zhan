@@ -13,7 +13,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "With so many convenient packages allowing for users to quickly implement any ML algorithm, there are now many users with access to tools but an inability to properly use them."
 intro:
-  - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today. Prequisite coursework: statistics, calculus, and linear algebra (introductory level only for all)'
+  - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today. Prequisite coursework (introductory level only for all): statistics, calculus, and linear algebra (All necessary skills can be learned/reviewed freely on Khan Academy).'
 feature_row:
   - image_path: "/images/stat_logo2.jpg"
     image_caption: "The Central Limit Theorem."
