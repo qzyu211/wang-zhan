@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: "/images/ds_logo.jpg"
-    image_caption: "Demonstration of the essential lapply function."
+#    image_caption: "Demonstration of the essential lapply function."
     alt: "lapply code"
     title: "Data Science"
     excerpt: "Learn essential skills for all aspiring data scientists."
