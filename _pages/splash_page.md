@@ -1,14 +1,14 @@
 ---
-title: "Learn "
+title: "Learn to Practice Analytics Properly"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+#date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: #/assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Learn More Here"
+    - label: "Read On"
       url: "https://qzyu999.github.io/wang-zhan/learning/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "With so many convenient packages allowing for users to quickly implement any ML algorithm, there are now many users with access to tools but an inability to properly use them."
