@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Read On"
       url: "https://qzyu999.github.io/wang-zhan/learning/"
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Erika Krause**](https://pixabay.com/users/eknbg-10500861/)"
 excerpt: "With so many convenient packages allowing for users to quickly implement any ML algorithm, there are now many users with access to tools but an inability to properly use them."
 intro:
   - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today. Prequisite coursework (introductory level only for all): statistics, calculus, and linear algebra (All necessary skills can be learned/reviewed freely on Khan Academy).'
