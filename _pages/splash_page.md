@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: "/images/ds_logo.png"
     image_caption: "Demonstration of the essential lapply function."
-    alt: "placeholder image 2"
+    alt: "lapply code"
     title: "Data Science"
     excerpt: "Learn essential skills for all aspiring data scientists."
     url: "https://qzyu999.github.io/wang-zhan/learning/#data-science"
