@@ -16,15 +16,16 @@ Hey everybody, my name is Jared and I'm a graduate student at Johns Hopkins Univ
 
 ------
 # Education
-Johns Hopkins University
+**Johns Hopkins University** 2019 - 2021 (expected)
+
 M.S. Data Science
 
-2019 - 2021 (expected)
-
-The University of California, Davis
+**The University of California, Davis** 2017 - 2019
 
 B.S. Statistics
-2017 - 2019
+- Computer Science 4 Kids - Student Mentor
+- HackDavis - Student Mentor
+- Instructor-endorsed answerer on Piazza (three classes)
 
 ------
 # More Info About Me
