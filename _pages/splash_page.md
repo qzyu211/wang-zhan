@@ -38,7 +38,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "/images/portfolio_logo3.jpg"
+  - image_path: "/images/portfolio_logo4.jpg"
     image_caption: "Screenshot of interactive heatmap."
     alt: "Data Science Project Heatmap"
     title: "Portfolio"
