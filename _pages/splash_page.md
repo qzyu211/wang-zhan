@@ -16,6 +16,7 @@ intro:
   - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today.'
 feature_row:
   - image_path: "/images/stat_logo.jpg"
+    image_caption: "The Central Limit Theorem."
     alt: "Central Limit Theorem"
     title: "Statistics"
     excerpt: "Understand with greater insight various statistical methods."
