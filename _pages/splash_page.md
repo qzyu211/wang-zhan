@@ -11,7 +11,7 @@ header:
     - label: "Read On"
       url: "https://qzyu999.github.io/wang-zhan/learning/"
   caption: "Photo credit: [**Erika Krause**](https://pixabay.com/users/eknbg-10500861/)"
-excerpt: "With so many convenient packages that allow for a quick implementation any ML algorithm, there are now many users with access to tools but they lack the knowledge to fully utilize them."
+excerpt: "With so many convenient packages that allow for a quick implementation of any ML algorithm, there are now many users with access to tools but they lack the knowledge to fully utilize them"
 intro:
   - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today. Prequisite coursework (introductory level only for all): statistics, calculus, and linear algebra (All necessary skills can be learned/reviewed freely on [**Khan Academy**](https://www.khanacademy.org/math)).'
 feature_row:
@@ -38,8 +38,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - image_path: "/images/portfolio_logo2.jpg"
+    image_caption: "Screenshot of interactive heatmap."
+    alt: "Data Science Project Heatmap"
     title: "Portfolio"
     excerpt: 'Take a look at several past and on-going projects.'
     url: "https://qzyu999.github.io/wang-zhan/portfolio/"
