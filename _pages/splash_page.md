@@ -22,8 +22,8 @@ feature_row:
     url: "https://qzyu999.github.io/wang-zhan/learning/#statistics"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/ds_logo.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /assets/images/ds_logo.png
+    image_caption: "Demonstration of the essential lapply function."
     alt: "placeholder image 2"
     title: "Data Science"
     excerpt: "Learn essential skills for all aspiring data scientists."
