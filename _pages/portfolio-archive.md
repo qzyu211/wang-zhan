@@ -25,6 +25,6 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Portfolio examples:
+Projects from courses taken at the University of California, Davis:
 
 {% include feature_row %}

@@ -47,10 +47,11 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - image_path: "/images/blog_logo2.jpg"
+    image_caption: "Heatmap of global view counts."
+    alt: "Global view count."
     title: "Blog"
-    excerpt: 'Read the latest blog posts to find the most recently created lessons on the site.'
+    excerpt: 'Join the global community in learning together.'
     url: "https://qzyu999.github.io/wang-zhan/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
