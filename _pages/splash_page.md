@@ -22,7 +22,7 @@ feature_row:
     url: "https://qzyu999.github.io/wang-zhan/learning/#statistics"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/ds_logo.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Data Science"
