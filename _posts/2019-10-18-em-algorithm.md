@@ -10,6 +10,8 @@ mathjax: "true"
 The goal of this post is to help others reach a thorough understanding of what EM is and how it works. Below is an outline of how this page will cover the algorithm.
 
 1. [The EM Algorithm](https://qzyu999.github.io/wang-zhan/machine-learning/em-algorithm/#the-em-algorithm)
+    1. Maximum Likelihood Estimation (MLE)
+    2. Latent Variables
 2. [Deriving the Formulas](https://qzyu999.github.io/wang-zhan/machine-learning/em-algorithm/#deriving-the-formulas)
 3. [Computing the Algorithm](https://qzyu999.github.io/wang-zhan/machine-learning/em-algorithm/#computing-the-algorithm)
 
