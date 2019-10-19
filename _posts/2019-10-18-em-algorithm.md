@@ -16,7 +16,7 @@ The goal of this post is to help others reach a thorough understanding of what E
 3. [Computing the Algorithm](https://qzyu999.github.io/wang-zhan/machine-learning/em-algorithm/#computing-the-algorithm)
 
 ## The EM-algorithm
-The name EM algorithm is short for expectation-maximization (EM) algorithm. What EM does is that it finds the maximum likelihood estimate (MLE) for a certain set of parameters of a statistical model (e.g., $Sigma$ and $mu$ from the multivariate normal distribution).
+The name EM algorithm is short for expectation-maximization (EM) algorithm. What EM does is that it finds the maximum likelihood estimate (MLE) for a certain set of parameters of a statistical model (e.g., $$Sigma$$ and $$mu$$ from the multivariate normal distribution).
 
 # explain MLE
 
