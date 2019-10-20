@@ -4,7 +4,7 @@ date: 2019-10-18
 tags: [statistics, machine-learning, em]
 excerpt: "Test post"
 category: machine-learning
-excerpt: "This post will cover aspects of the EM-algorithm."
+excerpt: "This post will cover aspects of the expectation-maximization (EM) algorithm."
 mathjax: "true"
 ---
 The goal of this post is to help others reach a thorough understanding of what EM is and how it works. Below is an outline of how this page will cover the algorithm.
