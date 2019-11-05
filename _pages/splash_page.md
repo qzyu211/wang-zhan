@@ -31,7 +31,7 @@ feature_row:
     url: "https://qzyu999.github.io/wang-zhan/learning/#data-science"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: #/assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: "/images/ml_logo.jpg"
     title: "Machine Learning"
     excerpt: "Dive deeper into some of the various ML tools out there."
     url: "https://qzyu999.github.io/wang-zhan/learning/#machine-learning"
