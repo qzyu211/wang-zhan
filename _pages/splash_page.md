@@ -32,6 +32,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: "/images/ml_logo.jpg"
+    image_caption: "Example of a two-layer neural network."
     title: "Machine Learning"
     excerpt: "Dive deeper into some of the various ML tools out there."
     url: "https://qzyu999.github.io/wang-zhan/learning/#machine-learning"
