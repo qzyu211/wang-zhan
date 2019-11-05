@@ -57,7 +57,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: "/images/self_image2.jpg"
+  - image_path: "/images/self_image3.jpg"
     image_caption: "Self-portrait outside of the University of California, Davis' Peter J. Shields Library."
     alt: "placeholder image 2"
     title: "About Me"
