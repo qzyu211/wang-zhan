@@ -8,5 +8,4 @@ title: "Blog"
 #  image: "/images/shenzhen_guoqing.jpg"
 ---
 
-
-Test about page.
+View the latest blog posts.
