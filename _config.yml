@@ -134,9 +134,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/yqz09/"
-    - label: "Weibo"
-      icon: "fab fa-weibo"
-      url: "https://www.weibo.com/u/6305890423/"
+#    - label: "Weibo"
+#      icon: "fab fa-weibo"
+#      url: "https://www.weibo.com/u/6305890423/"
 
 # Site Footer
 footer:
