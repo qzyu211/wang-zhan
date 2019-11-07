@@ -16,7 +16,7 @@ intro:
   - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today. Prerequisite coursework (introductory level only for all): statistics, calculus, and linear algebra. All necessary skills can be learned/reviewed freely on [**Khan Academy**](https://www.khanacademy.org/math).'
 feature_row:
   - image_path: "/images/stat_logo2.jpg"
-    image_caption: "The Central Limit Theorem."
+    image_caption: "The formula for the Central Limit Theorem."
     alt: "Central Limit Theorem"
     title: "Statistics"
     excerpt: "Understand with greater insight various statistical methods."
