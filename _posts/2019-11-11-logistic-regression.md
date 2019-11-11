@@ -1,8 +1,8 @@
 ---
-title: "Maximum Likelihood Estimation"
+title: "Logistic Regression"
 date: 2019-11-11
-tags: [statistics, mle, maximum-likelihood-estimation]
-excerpt: "An in-depth look into Maximum Likelihood Estimation (MLE)."
+tags: [statistics, logistic-regression]
+excerpt: "Understand how to analyze categorical data with Logistic Regression."
 category: statistics
 mathjax: "true"
 ---
