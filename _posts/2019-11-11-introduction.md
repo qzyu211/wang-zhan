@@ -6,7 +6,7 @@ excerpt: "Hear about the motivation behind this GitHub page."
 #category: statistics
 mathjax: "true"
 ---
-欢迎，大家好。Hey everybody, my name is Jared Yu. In this post, I will explain to others what the motivation is behind this GitHub page. The purpose of this website is to help others better understand various topics related to statistics, data science, and machine learning. Some may wonder, “Why would I spend so much time writing about these topics?” The answer is that these topics are not necessarily thoroughly understood the first time around and by explaining them to others in clear and simple terms, they can be better learned by myself. This is also known as learning by teaching, a way for students to teach fellow students material that they have learned previously themselves.
+欢迎，大家好。Welcome! Hello everybody, my name is Jared Yu. In this post, I will explain to others what the motivation is behind this GitHub page. The purpose of this website is to help others better understand various topics related to statistics, data science, and machine learning. Some may wonder, “Why would I spend so much time writing about these topics?” The answer is that these topics are not necessarily thoroughly understood the first time around and by explaining them to others in clear and simple terms, they can be better learned by myself. This is also known as learning by teaching, a way for students to teach fellow students material that they have learned previously themselves.
 
 "It is the supreme art of the teacher to awaken joy in creative expression and knowledge." - Albert Einstein
 
