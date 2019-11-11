@@ -2,7 +2,7 @@
 title: "Logistic Regression"
 date: 2019-11-11
 tags: [statistics, logistic-regression]
-excerpt: "Understand how to analyze categorical data with Logistic Regression."
+excerpt: "Understand how to analyze categorical data using logistic regression."
 category: statistics
 mathjax: "true"
 ---
