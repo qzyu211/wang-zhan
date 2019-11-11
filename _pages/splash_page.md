@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Read On"
       url: "https://qzyu999.github.io/wang-zhan/learning/"
-  caption: "Photo credit: [**Erika Krause**](https://pixabay.com/users/eknbg-10500861/)"
+  caption: "Photograph of Mount Everest in Tibet, China. Photo credit: [**Erika Krause**](https://pixabay.com/users/eknbg-10500861/)"
 excerpt: "Currently, there are now more users than ever with access to various ML algorithms due to the abundance of packages such as sci-kit learn. However, without an adequate understanding of how these tools work, they may not be able to fully utilize them to their full potential."
 intro:
   - excerpt: 'This blog is created to help others with understanding the rigorous mathematical derivations necessary to properly implement the numerous statistical tools out there today. Prerequisite coursework (introductory level only for all): statistics, calculus, and linear algebra. All necessary skills can be learned/reviewed freely on [**Khan Academy**](https://www.khanacademy.org/math).'
