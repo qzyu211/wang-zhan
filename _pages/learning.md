@@ -3,7 +3,8 @@ title: "Learning"
 layout: categories
 permalink: /learning/
 header:
-  overlay_image: "/images/changbaishan_jilin.jpg"
+  except: Cultivate a deeper understanding of the various methodologies within statistics, data science, and machine learning. By looking closer at the fundamentals behind each of the concepts, we can gain a comprehensive view of how they work.
+  overlay_image: "/images/changbaishan.jpg"
   caption: "Photo by Sam Balye on Unsplash"
 author_profile: true
 ---
