@@ -6,7 +6,7 @@ excerpt: Cultivate a deeper understanding of the various methodologies within st
 header:
   overlay_image: "/images/changbaishan.jpg"
   overlay_filter: 0.5
-  caption: "Photo credit: [**Sam Balye**](https://unsplash.com/photos/IadGPoOOTms)"
+  caption: "Heaven Lake in Changbai Mountain, Jilin, China. Photo credit: [**Sam Balye**](https://unsplash.com/photos/IadGPoOOTms)"
   show_overlay_excerpt: true
 author_profile: true
 ---
