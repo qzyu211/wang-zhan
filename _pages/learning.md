@@ -4,4 +4,6 @@ layout: categories
 permalink: /learning/
 author_profile: true
 ---
-Categories for learning various concepts are separated into the groups: statistics, data science, machine learning, and artificial intelligence.
+The techniques involved in data science and machine learning require that users have a comprehensive understanding of their fundamentals so that the methods are used properly. Without a rigorous mathematical background to each of the formulas, it is not possible to fully utilize the many algorithms to their full potential. Categories for learning have been separated into the groups: statistics, data science, and machine learning.
+
+"If a craftsman wants to do good work, he must first sharpen his tools." – Confucius
