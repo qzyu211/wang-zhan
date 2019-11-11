@@ -6,7 +6,9 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 header:
-  teaser: "/images/portfolio_logo2.jpg"
+  overlay_filter: "0.5"
+  overlay_image: "/images/inner-mongolia.jpg"
+  caption: "Photograph in Hulunbuir, Inner Mongolia, China. Photo credit: [**Vined**](https://pixabay.com/users/vined-3442148/)"
 
 feature_row:
   - image_path: #
