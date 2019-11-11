@@ -4,7 +4,7 @@ permalink: /about/
 #header:
 #  image: "/images/shenzhen_guoqing.jpg"
 ---
-Hey everybody, my name is Jared and I'm a graduate student at Johns Hopkins University studying for a M.S. in Data Science. This website is designed to help others better understand topics in statistics, data science, and machine learning.
+Hey everybody, my name is Jared and I'm a graduate student at Johns Hopkins University studying for a M.S. in Data Science. This website is designed to help others better understand topics in statistics, data science, and machine learning. Read [here](https://qzyu999.github.io/wang-zhan/introduction/) for more information about this website.
 
 ------
 # Projects
