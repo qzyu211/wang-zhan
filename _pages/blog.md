@@ -12,7 +12,7 @@ excerpt: |
 header:
   overlay_filter: "0.5"
   overlay_image: "/images/everest.jpg"
-  caption: "Photograph of the peak of Mount Everest from the base in Tibet, China. Photo credit: [**Erika Krause**](https://pixabay.com/users/eknbg-10500861/)"
+  caption: "Photograph of the peak of Mount Everest from its base in Tibet, China. Photo credit: [**Erika Krause**](https://pixabay.com/users/eknbg-10500861/)"
 ---
 
 View the latest blog posts.
