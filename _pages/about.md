@@ -1,8 +1,17 @@
 ---
 title: "About"
 permalink: /about/
-#header:
-#  image: "/images/shenzhen_guoqing.jpg"
+header:
+excerpt: |
+  Find out more about the writer behind the different pages.
+  <br>
+  <br>
+  <br>
+header:
+  overlay_filter: "0.3"
+  overlay_image: "/images/guangxi.jpg"
+  caption: "A pair of fishermen along the Li River in Guangxi Zhuang Autonomous Region, China. Photo credit: [**DanishMiki**](https://pixabay.com/users/danishmiki-3864734/)"
+
 ---
 Hey everybody, my name is Jared and I'm a graduate student at Johns Hopkins University studying for a M.S. in Data Science. This website is designed to help others better understand topics in statistics, data science, and machine learning. Read [here](https://qzyu999.github.io/wang-zhan/introduction/) for more information about this website.
 
