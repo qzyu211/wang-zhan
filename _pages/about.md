@@ -9,7 +9,7 @@ excerpt: |
   <br>
 header:
   overlay_filter: "0.3"
-  overlay_image: "/images/guangxi.jpg"
+  overlay_image: "/images/guangxi2.jpg"
   caption: "A pair of fishermen along the Li River in Guangxi Zhuang Autonomous Region, China. Photo credit: [**DanishMiki**](https://pixabay.com/users/danishmiki-3864734/)"
 
 ---
