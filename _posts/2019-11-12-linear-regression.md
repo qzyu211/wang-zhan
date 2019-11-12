@@ -15,6 +15,8 @@ Take for example some simulated data of heights and weights for Chinese men and 
 
 Below, the sorted data has been plotted with the height on the y-axis and the weight on the x-axis. The code which does this is on lines 15-23.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/height_weight_intro.jpg/)
+
 <figure>
   <a href = "/images/height_weight_intro.jpg/">
   <figcaption>Plot of heights and weights.</figcaption>
