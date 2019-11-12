@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 header:
 excerpt: |
-  Find out more about the writer behind the different pages.
+  Find out more about the writer behind the different lessons.
   <br>
   <br>
   <br>
