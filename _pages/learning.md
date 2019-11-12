@@ -2,7 +2,7 @@
 title: "Learning"
 layout: categories
 permalink: /learning/
-excerpt: Cultivate a deeper understanding of the various methodologies within statistics, data science, and machine learning. By looking closer at the fundamentals behind each of the concepts, we can gain a comprehensive view of how they work.
+excerpt: Cultivate a deeper understanding of the various methodologies within statistics, data science, and machine learning. By looking closer at the fundamentals behind each of the concepts, we can gain a comprehensive view of how they work. <br>
 header:
   overlay_image: "/images/changbaishan.jpg"
   overlay_filter: "0.4"
