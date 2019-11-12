@@ -14,16 +14,9 @@ Take for example some simulated data of heights and weights for Chinese men and 
 {% gist 2ce9aeba4641f5a1e1eb6b82f65f958e %}
 
 Below, the sorted data has been plotted with the height on the y-axis and the weight on the x-axis. The code which does this is on lines 15-23.
-
+{:refdef: style="text-align: center;"}
 ![height weight plot]({{ site.url }}{{ site.baseurl }}/images/height_weight_intro.jpg)
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/height_weight_intro.jpg/)
-
-<figure>
-  <a href = "/images/height_weight_intro.jpg/">
-  <figcaption>Plot of heights and weights.</figcaption>
-</figure>
-
+{: refdef}
 1. [The Benefit of Matrix Representation](https://qzyu999.github.io/wang-zhan/statistics/notation/#the-benefit-of-matrix-representation)
 2. [The Style of Notation Used on this Website](https://qzyu999.github.io/wang-zhan/statistics/notation/#the-style-of-notation-used-on-this-website)
 3. [Extensions from Univariate to Multivariate](https://qzyu999.github.io/wang-zhan/statistics/notation/#extensions-from-univariate-to-multivariate)
