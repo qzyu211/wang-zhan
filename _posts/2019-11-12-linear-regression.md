@@ -17,6 +17,12 @@ Below, the sorted data has been plotted with the height on the y-axis and the we
 {:refdef: style="text-align: center;"}
 ![height weight plot]({{ site.url }}{{ site.baseurl }}/images/height_weight_intro.jpg)
 {: refdef}
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/height_weight_intro.jpg" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
 1. [The Benefit of Matrix Representation](https://qzyu999.github.io/wang-zhan/statistics/notation/#the-benefit-of-matrix-representation)
 2. [The Style of Notation Used on this Website](https://qzyu999.github.io/wang-zhan/statistics/notation/#the-style-of-notation-used-on-this-website)
 3. [Extensions from Univariate to Multivariate](https://qzyu999.github.io/wang-zhan/statistics/notation/#extensions-from-univariate-to-multivariate)
