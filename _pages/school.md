@@ -1,6 +1,6 @@
 ---
-title: "School"
-permalink: /school/
+title: "Xuéxiào"
+permalink: /xue-xiao/
 header:
 excerpt: |
   书山有路勤为径，学海无涯苦做舟。

@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "School"
-    url: /school/
+  - title: "Xuéxiào"
+    url: /xue-xiao/
   - title: "Learning"
     url: /learning/
   - title: "Portfolio"
