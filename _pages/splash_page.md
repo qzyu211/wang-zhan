@@ -9,7 +9,7 @@ header:
   overlay_image: "/images/terracotta_army.jpg"
   actions:
     - label: "Study the Essentials"
-      url: "https://qzyu999.github.io/wang-zhan/school/"
+      url: "https://qzyu999.github.io/wang-zhan/xue-xiao/"
   caption: "Terracotta army in Xi'an, Shaanxi, China. Photo credit: [**christels**](https://pixabay.com/users/christels-3741991/)"
 excerpt: "Currently, there are now more users than ever with access to various ML algorithms due to the abundance of packages such as sci-kit learn. However, without an adequate understanding of how these tools work, they may not be able to fully utilize them to their full potential."
 intro:
