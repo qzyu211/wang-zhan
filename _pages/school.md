@@ -6,10 +6,7 @@ excerpt: |
   书山有路勤为径，学海无涯苦做舟。
   <br>
   <br>
-  <br>
   Diligence is the path to the Mountain of Knowledge; Hard-working is the boat to the Endless Sea of Learning
-  <br>
-  <br>
   <br>
 header:
   overlay_filter: "0.3"
