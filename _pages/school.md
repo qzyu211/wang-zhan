@@ -23,14 +23,14 @@ I am working on a learning platform where interested students may carefully lear
 Courses should be taken in the following order, with ANOVA and Time Series Analysis being optional for progress towards higher levels.
 
 1.	Probability Theory
-2.	Mathematical Statistics
-3.	Linear Regression
-    a.	ANOVA
-    b.	Time Series Analysis
-4.	Logistic Regression
-5.	Multivariate Data Analysis
-6.	Data Science
-7.	Algorithms
+1.	Mathematical Statistics
+1.	Linear Regression
+    *	ANOVA
+    *	Time Series Analysis
+1.	Logistic Regression
+1.	Multivariate Data Analysis
+1.	Data Science
+1.	Algorithms
 
 # Reference:
 [1] https://www.quora.com/Which-methods-do-Chinese-students-use-to-study
