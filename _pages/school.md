@@ -13,6 +13,6 @@ excerpt: |
   <br>
 header:
   overlay_filter: "0.3"
-  overlay_image: "/images/tsinghua.jpg"
+  overlay_image: "/images/tsinghua2.jpg"
   caption: "Old Gate of Tsinghua University, the top university in the country, Beijing, China. Photo credit: [**Jaren Lim**](https://unsplash.com/@jarenlim)"
 ---
