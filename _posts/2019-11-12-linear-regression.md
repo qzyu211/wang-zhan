@@ -14,12 +14,9 @@ Take for example some simulated data of heights and weights for Chinese men and 
 {% gist 2ce9aeba4641f5a1e1eb6b82f65f958e %}
 
 Below, the sorted data has been plotted with the height on the y-axis and the weight on the x-axis. The code which does this is on lines 15-23.
-{:refdef: style="text-align: center;"}
-![height weight plot]({{ site.url }}{{ site.baseurl }}/images/height_weight_intro.jpg)
-{: refdef}
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/male_height_weight_plot.jpg" alt="Male height and weight plot."/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/male_height_weight_plot.jpeg" alt="Male height and weight plot."/>
   <figcaption>Figure 1 Plot of simulated male heights and weights with regression line.</figcaption>
 </figure>
 
