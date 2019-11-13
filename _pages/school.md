@@ -9,6 +9,6 @@ excerpt: |
   <br>
 header:
   overlay_filter: "0.3"
-  overlay_image: "/images/guangxi2.jpg"
-  caption: "A pair of fishermen along the Li River in Guangxi Zhuang Autonomous Region, China. Photo credit: [**DanishMiki**](https://pixabay.com/users/danishmiki-3864734/)"
+  overlay_image: "/images/tsinghua.jpg"
+  caption: "Old Gate of Tsinghua University, the top university in the country, Beijing, China. Photo credit: [**Jaren Lim**](https://unsplash.com/@jarenlim)"
 ---
