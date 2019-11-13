@@ -19,8 +19,8 @@ Below, the sorted data has been plotted with the height on the y-axis and the we
 {: refdef}
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/height_weight_intro.jpg" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/male_height_weight_plot.jpg" alt="Male height and weight plot."/>
+  <figcaption>Figure 1 Plot of simulated male heights and weights with regression line.</figcaption>
 </figure>
 
 1. [The Benefit of Matrix Representation](https://qzyu999.github.io/wang-zhan/statistics/notation/#the-benefit-of-matrix-representation)
