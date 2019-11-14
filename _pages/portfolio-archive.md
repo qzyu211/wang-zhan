@@ -33,6 +33,6 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Projects from courses taken at the University of California, Davis:
+#Projects from courses taken at the University of California, Davis:
 
-{% include feature_row %}
+#{% include feature_row %}
