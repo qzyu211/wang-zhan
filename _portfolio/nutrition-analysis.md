@@ -3,7 +3,7 @@ title: "Nutrition Analysis"
 excerpt: "The final project for the Multivariate Data Analysis course (STA 135) at U.C. Davis."
 header:
 #  image: /images/lda_plot_nut_proj.JPG
-#  teaser: /images/lda_plot_nut_proj.JPG
+  teaser: /images/lda_plot_nut_proj.JPG
 #sidebar:
 #  - title: "Role"
 #    image: http://placehold.it/350x250
