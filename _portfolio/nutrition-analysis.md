@@ -1,6 +1,6 @@
 ---
 title: "Nutrition Analysis"
-excerpt: "The final project for the Multivariate Data Analysis course (STA 135) at U.C. Davis."
+excerpt: "The final project for the Multivariate Data Analysis (STA 135) course, utilizing principal component analysis (PCA) and linear discriminant analysis (LDA)."
 header:
 #  image: /images/lda_plot_nut_proj.JPG
   teaser: /images/lda_plot_nut_proj.JPG
