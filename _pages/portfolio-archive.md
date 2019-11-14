@@ -16,10 +16,10 @@ header:
   caption: "Photograph in Hulunbuir, Inner Mongolia, China. Photo credit: [**Vined**](https://pixabay.com/users/vined-3442148/)"
 
 feature_row:
-  - image_path: #
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/lda_plot_nut_proj.JPG
+    alt: "Nutrition Analyis Final Project"
+    title: "Nutrition Analyis"
+    excerpt: "The final project for the Multivariate Data Analysis (STA 135) course, utilizing principal component analysis (PCA) and linear discriminant analysis (LDA)."
   - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
