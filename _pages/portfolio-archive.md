@@ -31,8 +31,6 @@ feature_row:
   - image_path: #/assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
----
-
 #Projects from courses taken at the University of California, Davis:
-
-#{% include feature_row %}
+##{% include feature_row %}
+---
