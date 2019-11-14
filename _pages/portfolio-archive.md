@@ -20,6 +20,7 @@ feature_row:
     alt: "Nutrition Analyis Final Project"
     title: "Nutrition Analyis"
     excerpt: "The final project for the Multivariate Data Analysis (STA 135) course, utilizing principal component analysis (PCA) and linear discriminant analysis (LDA)."
+    url: ""
   - image_path: #/assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
