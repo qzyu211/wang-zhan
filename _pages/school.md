@@ -15,7 +15,7 @@ header:
 ---
 学校 (Xuéxiào) is translated as school. If we want to learn properly, it would help to do so in a structured manner.
 
-Although it’s possible to read through pages of material, it is not necessarily the case that the material is well understood. The simplest method towards developing a more comprehensive understanding of a new concept is to practice it repeatedly until the topic is well understood. Reading through various topics on this website makes it abundantly clear that there is a compounding problem that comes with so much new information. A solution towards not only learning the material in a step-by-step manner but also towards having a practical comprehension of the knowledge gained is through diligent practice.
+Although it’s possible to read through pages of material, it is not necessarily the case that the material is well understood. The simplest method towards developing a more comprehensive understanding of a new concept is to practice it repeatedly until the topic is well known. Reading through various topics on this website makes it abundantly clear that there is a compounding problem that comes with so much new information. A solution towards not only learning the material in a step-by-step manner but also towards having a practical comprehension of the knowledge gained is through diligent practice.
 
 “Practice is the sole criterion for testing truth.” – Hu Fuming, Guangming Daily, 11 May 1978
 
