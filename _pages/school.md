@@ -1,5 +1,5 @@
 ---
-title: "Xuéxiào"
+title: "School"
 permalink: /xue-xiao/
 header:
 excerpt: |
