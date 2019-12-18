@@ -39,7 +39,7 @@ To overcome this obstacle, I’ve decided to adapt Bishop’s formulas so that t
 
 When it comes to regression and classification models, the basics of the approach can be understood using *general linear models* (GLMs) such as *linear regression* and *logistic regression*. However, with higher dimensions, the addition of interaction terms makes it such that the increasing number of interaction terms has an exponential growth. This is problematic and can become an issue computationally where a global optimum is perhaps not discovered when trying to solve for coefficients.
 
-With *artificial neural networks* (ANNs), an approach to overcome this dimensionality problem is to first determine beforehand a set number of basis functions (i.e., similar to the number of regression coefficients ($\beta's$) in linear or logistic regression), then update them through each iteration of an optimization process. Another term for this is *multilayer perceptron*, where the simplest form of an ANN is a *single layer perceptron*. With an understanding of the [perceptron algorithm](https://www.youtube.com/watch?v=4Gac5I64LM4&t=704s), the following document will be much clearer.
+With *artificial neural networks* (ANNs), an approach to overcome this dimensionality problem is to first determine beforehand a set number of basis functions (i.e., similar to the number of regression coefficients ($$\beta's$$) in linear or logistic regression), then update them through each iteration of an optimization process. Another term for this is *multilayer perceptron*, where the simplest form of an ANN is a *single layer perceptron*. With an understanding of the [perceptron algorithm](https://www.youtube.com/watch?v=4Gac5I64LM4&t=704s), the following document will be much clearer.
 
 The type of ANN that will be discussed is the basic feedforward neural network. There are other classes of ANNs such as: recurrent neural networks (RNN), convolutional neural networks (CNN), autoencoders, etc. Hybrid versions that combine different classes of ANNs can lead to innovations such as self-driving cars.
 
@@ -320,7 +320,7 @@ $$
 \textbf{A}^{[2]}
 $$
 
-This completes the matrix of second layer activations. Since we are only developing a two-layer neural network, only one more final activation function is needed. In this example, we will be doing multi-class classification, and so a softmax function will be chosen as the final activation function (in the case of binary classification, a sigmoid function would be utilized). Wrapping the matrix of second layer activations with the corresponding activation function, $\sigma(\cdot)$, the following expression is derived,
+This completes the matrix of second layer activations. Since we are only developing a two-layer neural network, only one more final activation function is needed. In this example, we will be doing multi-class classification, and so a softmax function will be chosen as the final activation function (in the case of binary classification, a sigmoid function would be utilized). Wrapping the matrix of second layer activations with the corresponding activation function, $$\sigma(\cdot)$$, the following expression is derived,
 
 $$
 	\hat{y}_{n,k}\left(\textbf{x}_n, \textbf{W}^{[1]}, \textbf{W}^{[2]}\right) = \sigma\left(a_{n, k}^{[2]}\right)=\sigma\left(\sum_{j=0}^{M} w_{k, j}^{[2]} h\left(\sum_{i=0}^{D} w_{j, i}^{[1]} x_{n, i}\right)\right),
@@ -445,7 +445,7 @@ $$
 E_{n}=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(a_{n, k}^{[2]}\right)=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(\sum_{j=0}^{M} z_{n, j}^{[1]} w_{k, j}^{[2]}\right)=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(\sum_{j=1}^{M} h\left(a_{n, j}^{[1]}\right) w_{k, j}^{[2]} + w_{k, 0}^{[2]}\right).
 $$
 
-It follows then, that to take the derivative of the error function with respect to one of the $w_{k,j}^{[2]}$ elements, we can use chain rule from calculus. The reason being that the $w_{k,j}^{[2]}$ term depends on the term $a_{n,k}^{[2]}$. This leads to the following,
+It follows then, that to take the derivative of the error function with respect to one of the $$w_{k,j}^{[2]}$$ elements, we can use chain rule from calculus. The reason being that the $$w_{k,j}^{[2]}$$ term depends on the term $$a_{n,k}^{[2]}$$. This leads to the following,
 
 $$
 \frac{\partial E_{n}}{\partial w_{k, j}^{[2]}}=\frac{\partial E_{n}}{\partial a_{n, k}^{[2]}} \frac{\partial a_{n, k}^{[2]}}{\partial w_{k, j}^{[2]}}.
