@@ -5,6 +5,10 @@ tags: [statistics, machine-learning, em]
 category: machine-learning
 excerpt: "This post will cover aspects of the expectation-maximization (EM) algorithm."
 mathjax: "true"
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 The goal of this post is to help others reach a thorough understanding of what EM is and how it works. Below is an outline of how this page will cover the algorithm.
 

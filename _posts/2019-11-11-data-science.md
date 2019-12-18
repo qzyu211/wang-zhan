@@ -5,6 +5,10 @@ tags: [data-science]
 excerpt: "Learn what data science is about."
 category: data-science
 mathjax: "true"
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 In this post, the common matrix notation used on this website will be thoroughly explained. The importance for learning how to understand the matrix representation is so that it's possible to follow along step-by-step the meaning of the various formulas.
 

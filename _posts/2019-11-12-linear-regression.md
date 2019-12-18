@@ -5,6 +5,10 @@ tags: [statistics, linear-regression]
 excerpt: "The simplest regression model for beginners."
 category: statistics
 mathjax: "true"
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 # Introduction
 During middle school we can all recall first learning about the equation of a line in algebra. It follows the format of $$y = mx + b$$. The formula allows us to draw a straight line through 2-dimensional space. This formula is useful in regression when doing data analysis. The exact formula of course will not be used, but something that looks incredibly similar.
