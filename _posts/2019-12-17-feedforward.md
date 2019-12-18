@@ -317,8 +317,6 @@ where the softmax function is used as follows,
 
 The matrix representation of the final output then is as follows,
 
-
-
 \begin{equation}
 	\Rightarrow \text{Applying } \sigma(\cdot) \text{ to each element of }\textbf{A}^{[2]}=
 \underbrace{
