@@ -57,7 +57,7 @@ If you think about other statistical algorithms, they are often based on some so
 
 So the effect is that we utilize [math formulas](https://www.researchgate.net/figure/Biological-Neuron-and-Artificial-Neural-Network_fig1_264149447) that are mimic the [basic structure](https://biology.stackexchange.com/questions/22011/neurons-with-thousands-of-connections-where-are-the-extra-connections-coming-fr) of the neuron. I tried to create a diagram of what will be explained further below in our two-layer neural network. The two-layers refer to the two weight matrices, but in the deep learning community there is various jargon for this and so it can be called other names. The diagram itself refers to the formula of the feedforward process for the first observation, $$\textbf{x}_1^{\top} = [x_{1,1}, x_{1,2}, \cdots,x_{1,D}]$$.
 
-![Neural network diagram.]({{ site.url }}{{ site.baseurl }}/assets/images/neural_network_diagram.jpg)
+{% raw %}![Neural network diagram.]({{ site.url }}{{ site.baseurl }}/assets/images/neural_network_diagram.jpg){: .full}{% endraw %}
 
 At this stage, the math and notation likely doesn't make sense which is expected. To me, they were nonintuitive at first despite their apparent simplicity. In later paragraphs I will try to break down the formula into simple to understand matrix representations so that from a programming perspective, it will become much clearer what we are trying to implement.
 
