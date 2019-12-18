@@ -59,6 +59,8 @@ So the effect is that we utilize [math formulas](https://www.researchgate.net/fi
 
 ![Neural network diagram.]({{ site.url }}{{ site.baseurl }}/assets/images/neural_network_diagram.jpg){: .full}
 
+<img src="{{site.baseurl}}/assets/images/neural_network_diagram.jpg">
+
 At this stage, the math and notation likely doesn't make sense which is expected. To me, they were nonintuitive at first despite their apparent simplicity. In later paragraphs I will try to break down the formula into simple to understand matrix representations so that from a programming perspective, it will become much clearer what we are trying to implement.
 
 # 4. Feedforward Neural Network
