@@ -99,6 +99,7 @@ where $D$ is the total number of features in the model (excluding the target var
 \begin{equation}
 =\left[\begin{array}{c}{\beta_{0}+\beta_{1} x_{1,1}+\beta_{2} x_{1,2}+\cdots+\beta_{D} x_{1, D}+\varepsilon_{1}} \\ {\beta_{0}+\beta_{1} x_{2,1}+\beta_{2} x_{2,2}+\cdots+\beta_{D} x_{2, D}+\varepsilon_{2}} \\ {\vdots} \\ {\beta_{0}+\beta_{1} x_{N, 1}+\beta_{2} x_{N, 2}+\cdots+\beta_{D} x_{N, D}+\varepsilon_{N}}\end{array}\right]
 \end{equation}
+
 *NOTE:* A trick is utilized to incorporate the intercept (i.e. $\beta_0$) by adding a column of $1's$ to the data matrix, to form a design matrix, this same trick will be utilized later. In this case $x_{n,i}=1$ for $i=0$ and $n=1,\cdots,N$.
 
 Another way of expressing the MLR model is as follows,
@@ -118,7 +119,8 @@ The analogy of layers will be elaborated on as follows. Let’s call the portion
 \begin{equation}
 a_{n, j}^{[1]}=w_{j, 0}^{[1]}+\sum_{i=1}^{D} w_{j, i}^{[1]} x_{n, i}, \quad n=1, \cdots, N ; i=1, \cdots, D ; j=1, \cdots, M,
 \end{equation}
-where $M$ is the number of hidden layers in the second activation function, $h(\cdot)$ (an explanation for how to choose M will be explained later). Above, the regression coefficients ($\beta_i's$) have been changed to weights denoted as w$_{j,i}^{[1]}$, with the superscript of $[1]$ indicating the index of the current layer. As the regression coefficients become weights, an additional subscript of $j$ is included. It will become clear soon how the feedforward neural network can be computationally more expensive compared to MLR.
+
+where $M$ is the number of hidden layers in the second activation function, $h(\cdot)$ (an explanation for how to choose M will be explained later). Above, the regression coefficients ($\beta_i's$) have been changed to weights denoted as $w_{j,i}^{[1]}$, with the superscript of $[1]$ indicating the index of the current layer. As the regression coefficients become weights, an additional subscript of $j$ is included. It will become clear soon how the feedforward neural network can be computationally more expensive compared to MLR.
 
 The same trick used to manage the intercept term (i.e., $\beta_0$) in MLR by adding a column of $1's$ to the data matrix is also applied in this case. The above formula can then be rewritten as follows,
 \begin{equation}
