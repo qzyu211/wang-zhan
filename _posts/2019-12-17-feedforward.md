@@ -581,7 +581,6 @@ from sklearn import datasets
 from sklearn.metrics import confusion_matrix
 ```
 
-
 ```python
 class TwoLayerNeuralNetwork(object):
     """
@@ -664,7 +663,6 @@ class TwoLayerNeuralNetwork(object):
 
 ```
 
-
 ```python
 iris = datasets.load_iris()  # load Iris dataset for classification
 ANN = TwoLayerNeuralNetwork(data_matrix=iris.data, target_variable=iris.target,
@@ -683,7 +681,6 @@ ANN.train()  # run code
 
 
 Confusion matrix:
-
 
 ```python
 confusion_matrix(iris.target, pd.DataFrame(ANN.Yhat).idxmax(axis=1))  # confusion matrix
