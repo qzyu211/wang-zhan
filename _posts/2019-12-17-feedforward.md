@@ -531,7 +531,7 @@ $$
 \underbrace{\underbrace{\boldsymbol{X}^\top}_{(D+1)\times N} \times \left\{\underbrace{h'(\mathbf{A}^{[1]})}_{N\times M} * \underbrace{\left[ \underbrace{\left( \hat{\mathbf{Y}} - \mathbf{T} \right)}_{N\times K} \times \underbrace{(\mathbf{W}^{[2]}_{-1})^\top}_{K\times M} \right]}_{N\times M} \right\}}_{(D+1)\times M},
 $$
 
-where $$\mathbf{W}^{[2]}_{-1}$$ is the second weight matrix with the first row removed, and $$\*$$ symbolizes normal row-wise multiplication, while $$\times$$ is the matrix product.
+where $$\mathbf{W}^{[2]}_{-1}$$ is the second weight matrix with the first row removed, and $$ * $$ symbolizes normal row-wise multiplication, while $$\times$$ is the matrix product.
 
 # 5. Programming a Feedforward Neural Network
 <a id="programming"></a>
