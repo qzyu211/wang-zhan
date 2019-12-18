@@ -267,6 +267,9 @@ $$
 		1 & {h\left(a_{N, 1}^{[1]}\right)} & {h\left(a_{N, 2}^{[1]}\right)} & {\cdots} & {h\left(a_{N, M}^{[1]}\right)}
 		\end{array}\right]
 	}_{N \times (M+1)}
+$$
+
+$$
 =\underbrace{
 	\left[\begin{array}{ccccc}
 	1 & {z_{1,1}^{[1]}} & {z_{1,2}^{[1]}} & {\dots} & {z_{1, M}^{[1]}} \\
@@ -335,8 +338,11 @@ $$
 The matrix representation of the final output then is as follows,
 
 $$
-	\Rightarrow \text{Applying } \sigma(\cdot) \text{ to each element of }\textbf{A}^{[2]}=
-\underbrace{
+	\Rightarrow \text{Applying } \sigma(\cdot) \text{ to each element of }\textbf{A}^{[2]}
+$$
+
+$$
+=\underbrace{
 	\begin{bmatrix}
 	\sigma(a^{[2]}_{1,1}) & \sigma(a^{[2]}_{1,2}) & \cdots & \sigma(a^{[2]}_{1,K}) \\
 	\sigma(a^{[2]}_{2,1}) & \sigma(a^{[2]}_{2,2}) & \cdots & \sigma(a^{[2]}_{2,K}) \\
@@ -442,7 +448,11 @@ $$
 This can be further rewritten by expanding the output function $$\hat{y}_{n, k}(\cdot)$$,
 
 $$
-E_{n}=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(a_{n, k}^{[2]}\right)=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(\sum_{j=0}^{M} z_{n, j}^{[1]} w_{k, j}^{[2]}\right)=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(\sum_{j=1}^{M} h\left(a_{n, j}^{[1]}\right) w_{k, j}^{[2]} + w_{k, 0}^{[2]}\right).
+E_{n}=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(a_{n, k}^{[2]}\right)=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(\sum_{j=0}^{M} z_{n, j}^{[1]} w_{k, j}^{[2]}\right)
+$$
+
+$$
+=-\sum_{k=1}^{K} t_{n, k} \ln \sigma\left(\sum_{j=1}^{M} h\left(a_{n, j}^{[1]}\right) w_{k, j}^{[2]} + w_{k, 0}^{[2]}\right).
 $$
 
 It follows then, that to take the derivative of the error function with respect to one of the $$w_{k,j}^{[2]}$$ elements, we can use chain rule from calculus. The reason being that the $$w_{k,j}^{[2]}$$ term depends on the term $$a_{n,k}^{[2]}$$. This leads to the following,
@@ -508,7 +518,11 @@ $$
 where again $$c$$ is just a dummy variable for the index. Conveniently, there is a familiar term, $$\frac{\partial E_{n}}{\partial a_{n, c}^{[2]}}$$, so we can use our solution from previously in this situation as well. The other term, $$\frac{\partial a_{n, c}^{[2]}}{\partial a_{n, j}^{[1]}}$$, is slightly more complicated, and can be seen below,
 
 $$
-\frac{\partial a_{n, c}^{[2]}}{\partial a_{n, j}^{[1]}} = \frac{\sum_{j=0}^{M} z_{n, j}^{[1]} w_{c,j}^{[2]}}{\partial a_{n, j}^{[1]}} = \frac{\sum_{j=1}^{M} z_{n, j}^{[1]} w_{c,j}^{[2]} + w_{c,0}^{[2]}}{\partial a_{n, j}^{[1]}} = \frac{\sum_{j=1}^{M} h(a_{n, j}^{[1]}) w_{c,j}^{[2]} + w_{c,0}^{[2]}}{\partial a_{n, j}^{[1]}} = h'(a_{n, j}^{[1]}) w_{c,j}^{[2]}.
+\frac{\partial a_{n, c}^{[2]}}{\partial a_{n, j}^{[1]}} = \frac{\sum_{j=0}^{M} z_{n, j}^{[1]} w_{c,j}^{[2]}}{\partial a_{n, j}^{[1]}} = \frac{\sum_{j=1}^{M} z_{n, j}^{[1]} w_{c,j}^{[2]} + w_{c,0}^{[2]}}{\partial a_{n, j}^{[1]}}
+$$
+
+$$
+= \frac{\sum_{j=1}^{M} h(a_{n, j}^{[1]}) w_{c,j}^{[2]} + w_{c,0}^{[2]}}{\partial a_{n, j}^{[1]}} = h'(a_{n, j}^{[1]}) w_{c,j}^{[2]}.
 $$
 
 An important note, moreso from the coding perspective, is that we are undoing the absorbed bias term and showing that it is not included in the partial derivative. Therefore, the term $$h'(a_{n, j}^{[1]})$$ is similar to the matrix $$\mathbf{Z}^{[1]}$$, but without the column of $$1's$$ added.
