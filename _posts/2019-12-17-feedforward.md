@@ -63,23 +63,27 @@ At this stage, the math and notation likely doesn't make sense which is expected
 <a href="#top">Back to top</a>
 
 To understand the feedforward neural network (along with Bishop’s notation which can be initially counter intuitive), let’s examine the mathematical model of linear regression and bridge the gap from there. In *simple linear regression* (SLR), with $N$ pairs of $(y_n,x_n)$ sample data points, the SLR model appears as follows,
-\begin{equation}
+$$
 y_{n}=\beta_{0}+\beta_{1} x_{n}+\varepsilon_{n}, \quad n=1, \cdots, N.
-\end{equation}
+$$
+
 Extending this to *multiple linear regression* (MLR), the model evolves into,
-\begin{equation}
+
+$$
 y_{n}=\beta_{0}+\beta_{1} x_{n, 1}+\beta_{2} x_{n, 2}+\cdots+\beta_{D} x_{n, D}+\varepsilon_{n}=\mathbf{x}_{n}^{\top} \boldsymbol{\beta}+\varepsilon_{n}, \quad n=1, \cdots, N,
-\end{equation}
+$$
+
 where $D$ is the total number of features in the model (excluding the target variable). Using matrix notation, the full set of inputs, outputs, coefficients, and errors in MLR can be expressed as,
-\begin{equation}
+
+$$
 \mathbf{y}=\boldsymbol{X} \boldsymbol{\beta}+\boldsymbol{\varepsilon} \rightarrow
 \left[\begin{array}{c}{y_{1}} \\ {y_{2}} \\ {\vdots} \\ {y_{N}}\end{array}\right]=
 \left[\begin{array}{c}{\mathbf{x}_{1}^{\top}} \\ {\mathbf{x}_{2}^{\top}} \\ {\vdots} \\ {\mathbf{x}_{N}^{\top}}\end{array}\right]
 \left[\begin{array}{c}{\beta_{0}} \\ {\beta_{1}} \\ {\beta_{2}} \\ {\vdots} \\ {\beta_{D}}\end{array}\right]+
 \left[\begin{array}{c}{\varepsilon_{1}} \\ {\varepsilon_{2}} \\ {\vdots} \\ {\varepsilon_{N}}\end{array}\right]
-\end{equation}
+$$
 
-\begin{equation}
+$$
 =\left[\begin{array}
 {cccc}
 {1} & {x_{1,1}} & {\cdots} & {x_{1, D}} \\
@@ -94,11 +98,11 @@ where $D$ is the total number of features in the model (excluding the target var
 \left[\begin{array}
 {c}{\varepsilon_{1}} \\ {\varepsilon_{2}} \\ {\vdots} \\ {\varepsilon_{N}}
 \end{array}\right]
-\end{equation}
+$$
 
-\begin{equation}
+$$
 =\left[\begin{array}{c}{\beta_{0}+\beta_{1} x_{1,1}+\beta_{2} x_{1,2}+\cdots+\beta_{D} x_{1, D}+\varepsilon_{1}} \\ {\beta_{0}+\beta_{1} x_{2,1}+\beta_{2} x_{2,2}+\cdots+\beta_{D} x_{2, D}+\varepsilon_{2}} \\ {\vdots} \\ {\beta_{0}+\beta_{1} x_{N, 1}+\beta_{2} x_{N, 2}+\cdots+\beta_{D} x_{N, D}+\varepsilon_{N}}\end{array}\right]
-\end{equation}
+$$
 
 *NOTE:* A trick is utilized to incorporate the intercept (i.e. $\beta_0$) by adding a column of $1's$ to the data matrix, to form a design matrix, this same trick will be utilized later. In this case $x_{n,i}=1$ for $i=0$ and $n=1,\cdots,N$.
 
