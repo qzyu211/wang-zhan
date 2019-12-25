@@ -198,7 +198,7 @@ $$
 	{a_{2,1}^{[1]}} & {a_{2,2}^{[1]}} & {\dots} & {a_{2, M}^{[1]}} \\
 	{\vdots} & {\vdots} & {\ddots} & {\vdots} \\
 	{a_{N, 1}^{[1]}} & {a_{N, 2}^{[1]}} & {\cdots} & {a_{N, M}^{[1]}} \\
-	\end{array}\right]}_{N \times M}=\textbf{A}^{[1]}.
+	\end{array}\right]}_{N \times M}=\textbf{A}^{[1]},
 $$
 
 where we can call $$\textbf{A}^{[1]}$$ the matrix of first layer activations. The activation function $$h(\cdot)$$ is applied to this entire matrix. The choice of activation functions is not trivial, but it will be discussed later. Then wrapping the matrix of first layer activations with the corresponding activation function, the following expression is derived,
