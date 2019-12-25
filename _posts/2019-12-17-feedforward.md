@@ -277,7 +277,7 @@ $$
 	{\vdots} & {\vdots} & {\vdots} & {\ddots} & {\vdots} \\
 	1 & {z_{N, 1}^{[1]}} & {z_{N, 2}^{[1]}} & {\cdots} & {z_{N, M}^{[1]}} \\
 	\end{array}\right]
-}_{N \times (M+1)}
+}_{N \times (M+1)},
 $$
 
 where $$z_{n,j}^{[1]}=1$$ for $$n=1,\cdots,N$$ and $$j=0$$. The matrix before the bias column is added is important and will be used later. Then, to calculate the matrix of second layer activations, $$\textbf{A}^{[2]}$$, we must calculate the matrix product of $$\textbf{Z}^{[1]}$$ and $$\textbf{W}^{[2]}$$. So, using the terms, $$z_{n,j}^{[1]}$$, $$n=1,\cdots,N$$, $$j=0,\cdots,M$$ and $$w_{k,j}^{[2]}$$, $$j=0,\cdots,M$$, $$k=1,\cdots,K$$, the following is their matrix product,
