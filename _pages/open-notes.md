@@ -20,4 +20,4 @@ Simultaneously, I understand that as a university student having studied in the 
 
 *Disclaimer:* It would make sense to interpret the work as a student’s set of notes rather than as authoritative educational texts.
 
-![Mind map of order of topics to study first.]({{"/images/mind_map.jpg" | absolute_url}})
+![Mind map of order of topics to study first.]({{"/images/mind_map.png" | absolute_url}})
