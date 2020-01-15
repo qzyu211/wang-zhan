@@ -19,3 +19,5 @@ These documents are part of a series of pages that are intended to be shared wit
 Simultaneously, I understand that as a university student having studied in the U.S. that I am comparatively lucky compared to many around the world who lack access to such institutions with their wealth of resources. Another goal to be aimed for through the task of compiling these notes is to help increase the level of equity in the world by allowing others to improve their knowledge and thus raise the global standards for data science, machine learning, and artificial intelligence. This is something that has been greatly helped by pioneers such as Andrew Ng and his deeplearning.ai courses in combination with Coursera.
 
 *Disclaimer:* It would make sense to interpret the work as a student’s set of notes rather than as authoritative educational texts.
+
+![Mind map of order of topics to study first.]({{"/images/mind_map.jpg" | absolute_url}})
