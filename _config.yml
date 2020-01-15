@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Jared Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Graduate Student"
-  location         : "Davis, California"
+  bio              : "Graduate student studying data science."
+  location         : "Fremont, California"
   email            :
   links:
     - label: "Email"
