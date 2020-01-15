@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Xuéxiào"
-    url: /xue-xiao/
+  - title: "Open Notes"
+    url: /open-notes/
   - title: "Learning"
     url: /learning/
   - title: "Portfolio"
