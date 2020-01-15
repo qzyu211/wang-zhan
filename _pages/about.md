@@ -50,6 +50,6 @@ B.S. Statistics
 ------
 # More Info About Me
 Besides learning about statistics and data science, hobbies of mine include:
-- Learning Chinese Language/Culture
+- Learning Chinese language/culture
 - Exercise
 - Cooking
