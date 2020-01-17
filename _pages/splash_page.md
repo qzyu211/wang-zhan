@@ -58,7 +58,7 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: "/images/van_gogh_style.jpg"
-    image_caption: "Self-portrait outside of the University of California, Davis' Peter J. Shields Library."
+    image_caption: "Self-portrait edited with neural style transfer, outside U.C. Davis' library."
     alt: "placeholder image 2"
     title: "About Me"
     excerpt: 'Find out more about who I am in this section.'
