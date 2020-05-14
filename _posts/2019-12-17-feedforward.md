@@ -496,10 +496,10 @@ Next, we will look at how to begin to calculate the gradient for the first weigh
 $$
 	\frac{\partial E_n}{\partial w_{j,i}^{[1]}}\Rightarrow
 	\underbrace{\begin{bmatrix}
-		\frac{\partial E_n}{\partial w_{1,0}^{[2]}} & \frac{\partial E_n}{\partial w_{2,0}^{[2]}} & \cdots  & \frac{\partial E_n}{\partial w_{M,0}^{[2]}} \\
-		\frac{\partial E_n}{\partial w_{1,1}^{[2]}} & \frac{\partial E_n}{\partial w_{2,1}^{[2]}} & \cdots & \frac{\partial E_n}{\partial w_{M,1}^{[2]}} \\
+		\frac{\partial E_n}{\partial w_{1,0}^{[1]}} & \frac{\partial E_n}{\partial w_{2,0}^{[1]}} & \cdots  & \frac{\partial E_n}{\partial w_{M,0}^{[1]}} \\
+		\frac{\partial E_n}{\partial w_{1,1}^{[1]}} & \frac{\partial E_n}{\partial w_{2,1}^{[1]}} & \cdots & \frac{\partial E_n}{\partial w_{M,1}^{[1]}} \\
 		\vdots & \vdots & \ddots & \vdots \\
-		\frac{\partial E_n}{\partial w_{1,D}^{[2]}} & \frac{\partial E_n}{\partial w_{2,D}^{[2]}} & \cdots & \frac{\partial E_n}{\partial w_{M,D}^{[2]}}
+		\frac{\partial E_n}{\partial w_{1,D}^{[1]}} & \frac{\partial E_n}{\partial w_{2,D}^{[1]}} & \cdots & \frac{\partial E_n}{\partial w_{M,D}^{[1]}}
 		\end{bmatrix}}_{(D+1)\times M}.
 $$
 
